@@ -23,11 +23,11 @@ The first deliverable is a Python module containing a function named "predict_ho
 {'lat': …, 'lng': …, 'n_bedrooms': …, 'sqft': …, 'waterfront': …, }
 
 The second deliverable is a presentation to the instructors and the 0401 cohort addressing the following questions:
-What problem did you set out to solve? (Business Understanding)
-What steps were necessary to source the data? (Data Understanding)
-How did your team prepare the data for ML and engineer features? (Data Prep)
-How does the model predict the price of a house? (Modeling)
-How well does the model predict the price of a house? (Evaluation)
+What problem did you set out to solve? (Business Understanding) <br/>
+What steps were necessary to source the data? (Data Understanding) <br/>
+How did your team prepare the data for ML and engineer features? (Data Prep) <br/>
+How does the model predict the price of a house? (Modeling) <br/>
+How well does the model predict the price of a house? (Evaluation) <br/>
 Can we see a demo of the website integrated with the function? (Deployment: Stay tuned for more information about this)
 
 You should also submit a clean and readable Jupyter notebook with executable code that illustrates how you designed, built, and tested your model. (You may also have "scratch" notebooks that  are for your eyes only.)
