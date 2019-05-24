@@ -30,7 +30,7 @@ How does the model predict the price of a house? (Modeling)
 How well does the model predict the price of a house? (Evaluation)
 Can we see a demo of the website integrated with the function? (Deployment: Stay tuned for more information about this)
 
-You should also submit a clean and readable Jupyter notebook with executable code. (You may also have "scratch" notebooks that  are for your eyes only.)
+You should also submit a clean and readable Jupyter notebook with executable code that illustrates how you designed, built, and tested your model. (You may also have "scratch" notebooks that  are for your eyes only.)
 
 
 Schedule:
