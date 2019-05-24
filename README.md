@@ -2,7 +2,7 @@
 
 Project Description
 
-Business Understanding
+Business Understanding <br/>
 We work at a real estate brokerage and we want to build a model to predict the sale price of a house.
 
 Data Understanding
