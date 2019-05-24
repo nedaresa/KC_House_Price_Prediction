@@ -5,20 +5,20 @@ Project Description
 Business Understanding <br/>
 We work at a real estate brokerage and we want to build a model to predict the sale price of a house.
 
-Data Understanding
+Data Understanding <br/>
 The King County Assessor releases all of its data on housing stock, assessed values, and sale prices: https://info.kingcounty.gov/assessor/DataDownload/default.aspx
 
-Data Preparation
+Data Preparation <br/>
 Refer to the Pandas data cleaning lesson for a starting point: https://github.com/learn-co-students/pandas3_seattle-ds-051319
 
-Modeling
+Modeling <br/>
 Your team (Asim, Colin, and Dale -- all three of you!) will start with linear regression. Another approach, k-Nearest-Neighbors, will be added for the final iteration of the project.
 
-Evaluation
+Evaluation <br/>
 Models will be evaluated according to MAE (median absolute error) on houses with sale prices between the 5th and 95th percentiles.
 
-Deployment
-Deliverables:
+Deployment <br/>
+Deliverables: <br/>
 The first deliverable is a Python module containing a function named "predict_house_price" that takes in a row of data on a house according to the following specification:
 {'lat': …, 'lng': …, 'n_bedrooms': …, 'sqft': …, 'waterfront': …, }
 
