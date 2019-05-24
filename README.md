@@ -68,3 +68,4 @@ A few suggestions for getting started:
 1. Each of you can _fork_ this repo and then clone your fork, so that you can all work locally and separately.
 2. Unzip and prepare the data; see "data preparation" above.
 3. Look at the Jupyter notebooks in this repo for guidelines about notebook presentation. "V1" is clearly unworthy of a professional audience, while "V2" is an improvement and "V3" is best of all.
+4. Don't think of the goal as producing one perfect model. Aim to produce a (bad) model by the end of the first day; you can always improve on it.
