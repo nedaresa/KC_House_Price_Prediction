@@ -32,10 +32,10 @@ How well does the model predict the price of a house? (Evaluation) <br/>
 You should also submit a clean and readable Jupyter notebook with executable code that illustrates how you designed, built, and tested your model. (You may also have "scratch" notebooks that  are for your eyes only.)
 
 
-Teams:
-Jungmo - Neda
-Boping - Raheel
-Juan - Erica
+Teams: <br/>
+Jungmo - Neda <br/>
+Boping - Raheel <br/>
+Juan - Erica <br/>
 
 Step 0: Come up with a fun team name!
 
